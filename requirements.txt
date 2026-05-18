@@ -1,0 +1,14 @@
+
+tensorboard==2.16.2
+nltk==3.8.1
+gensim==4.3.3
+ipykernel
+seaborn
+flask
+memory_profiler
+streamlit==1.45.1
+tensorflow==2.16.1
+pandas==2.2.3
+numpy==1.26.4
+scikit-learn==1.6.1
+matplotlib==3.10.3
