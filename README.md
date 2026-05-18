@@ -63,3 +63,14 @@ ANN_Project/
 
 ## Output
 The model predicts whether a customer is likely to churn based on customer information.
+
+## App Screenshots
+
+### Home Page
+![Home](images/home.png)
+
+### Prediction Page
+![Prediction](images/prediction.png)
+
+### Output
+![Output](images/output.png)
