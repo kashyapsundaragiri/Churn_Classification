@@ -70,7 +70,9 @@ The model predicts whether a customer is likely to churn based on customer infor
 ![Home](images/churn-1.1.png)
 
 ### Prediction Page
-![Prediction](images/churn-1.2.png)
+![Prediction](images/churn-1.1.png)
+![Prediction](images/churn-2.1.png)
 
 ### Output
+![Output](images/churn-1.2.png)
 ![Output](images/churn-2.2.png)
