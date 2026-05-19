@@ -46,20 +46,32 @@ streamlit run app2.py
 
 ## Project Structure
 
-```text
 ANN_Project/
 │
+├── images/
+├── logs/
+├── regressionlogs/
+│
 ├── app2.py
+├── regression.py
 ├── experiment.ipynb
 ├── prediction.ipynb
+├── hyper_parameter_tuning.ipynb
+├── salary_Regression.ipynb
+│
 ├── model.keras
+├── Regression_model.keras
+│
 ├── scaler.pkl
 ├── geo_oh_encoder.pkl
 ├── label_encoder_Gender.pkl
+│
 ├── Churn_Modelling.csv
+│
 ├── requirements.txt
-└── README.md
-```
+├── runtime.txt
+├── README.md
+└── .gitignore
 
 ## Output
 The model predicts whether a customer is likely to churn based on customer information.
