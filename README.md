@@ -46,6 +46,9 @@ streamlit run app2.py
 
 ## Project Structure
 
+## Project Structure
+
+```text
 ANN_Project/
 │
 ├── images/
@@ -72,6 +75,7 @@ ANN_Project/
 ├── runtime.txt
 ├── README.md
 └── .gitignore
+```
 
 ## Output
 The model predicts whether a customer is likely to churn based on customer information.
